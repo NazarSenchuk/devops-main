@@ -1,3 +1,4 @@
+kubernetes/vault/cluster-keys.json
 # Terraform files
 .terraform/
 *.tfstate
